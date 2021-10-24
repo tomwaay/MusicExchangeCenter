@@ -1,0 +1,14 @@
+# Music Exchange Center
+An online music center simulation in Java using ArrayLists and HashMaps.
+
+Author: Thomas Way
+
+Requirements: IntilliJ IDEA
+
+Source: MusicExchangeCentre Folder
+
+Purpose: This is a basic online music center application where users can be registered and logged in, as well as download songs from other users.
+
+Compilation/Launch: After opening the folder in the required IDE, open one of the files labeled MusicExchangeCenterTest, and press the compile and run icon at the top.
+
+Instructions: There are no instructions pertaining to the use of the program as it is only output.
